@@ -14,7 +14,14 @@ Welcome to the SOLID Principles in CSharp! This repository aims to provide a com
 
 ## Introduction to SOLID Principles
 
-SOLID is an acronym that represents a set of five principles in software design. These principles serve as guidelines to develop software that is easy to maintain, extend, and adapt to changing requirements. The SOLID principles encourage modular, loosely-coupled, and well-organized code.
+SOLID is an acronym that represents the following principles:
+
+- **S**: Single Responsibility Principle (SRP)
+- **O**: Open-closed Principle (OCP)
+- **L**: Liskov Substitution Principle (LSP)
+- **I**: Interface Segregation Principle (ISP)
+- **D**: Dependency Inversion Principle (DIP)
+- The SOLID principles encourage modular, loosely-coupled, and well-organized code.
 
 ## Principle 1: Single Responsibility Principle (SRP)
 
