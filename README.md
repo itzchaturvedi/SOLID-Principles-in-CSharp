@@ -11,6 +11,7 @@ Welcome to the SOLID Principles in CSharp! This repository aims to provide a com
 - [Principle 4: Interface Segregation Principle (ISP)](#principle-4-interface-segregation-principle-isp)
 - [Principle 5: Dependency Inversion Principle (DIP)](#principle-5-dependency-inversion-principle-dip)
 - [Getting Started](#getting-started)
+- [Contributing](#getting-started)
 
 ## Introduction to SOLID Principles
 
@@ -47,4 +48,7 @@ The DIP asserts that high-level modules should not depend on low-level modules; 
 
 To explore and learn more about the SOLID principles in software design, you can clone this repository and review the code examples, explanations, and practical applications provided in each principle's section.
 
+## Contributing
+
+Contributions to this repository are highly encouraged! Whether you have code examples, insights, or additional resources related to SOLID principles, feel free to contribute by submitting a pull request.
 
